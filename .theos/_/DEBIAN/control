@@ -1,0 +1,10 @@
+Package: com.soup.volumelock
+Name: VolumeLock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Soup
+Author: Soup
+Section: Tweaks
+Version: 0.0.1-19+debug
+Installed-Size: 286
